@@ -12,3 +12,6 @@ http://alexanderpaukov.com/markup/fullcourse.html
 
 Страницу делала по видео уроку:
 http://alexanderpaukov.com/markup/fullcourse.html
+
+
+![Alt text](coming_soon.jpg?raw=true "Title")
